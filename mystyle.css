@@ -6,10 +6,7 @@ p {
   color: blue;
   }
 body {background-color: coral;}
-body {
-   background-image: url("gifseason.gif");
-   background-color: #cccccc;
-}
+
 p {
     text-decoration: underline;
     text-decoration-color: red;
@@ -34,27 +31,27 @@ div.c {
 }
 div.a {
     height: auto;
-    border: 1px solid black;
+    border: 1px solid red;
 }
 
 div.b {
     height: 50px;
-    border: 1px solid black; 
+    border: 1px solid red; 
 }
 div.a {
     width: auto;
-    border: 1px solid black;
+    border: 1px solid red;
 }
 
 div.b {
     width: 150px;
-    border: 1px solid black; 
+    border: 1px solid red; 
 }
 
 div.c {
     width: 50%;
-    border: 1px solid black; 
+    border: 1px solid red; 
 }
 a:link { 
-    background-color: yellow;
+    background-color: red;
 }
